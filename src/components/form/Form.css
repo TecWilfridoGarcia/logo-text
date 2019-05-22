@@ -1,0 +1,37 @@
+.form-item{
+    float: left;
+    background-color: transparent;
+    color: #eeeeee;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid rgb(112, 112, 112) 2px;
+    padding: 3px 10px;
+    padding-left: 29px;
+    color:hsl(20, 3%, 21%);
+}
+.form-group{
+    padding-left: 68px;
+    color: (hsl(20, 3%, 21%));
+    padding-right: 68px;
+    width: 100%;
+
+}
+.img-form{
+}
+.form-msg{
+    height: 125px;
+    color: (hsl(20, 3%, 21%));
+}
+.btn-custom{
+    background: hsl(220, 39%, 32%);
+    border: hsl(220, 39%, 32%);
+    color: white;
+    width: 128px;
+    height: 36px
+}
+p{
+    color: (hsl(20, 3%, 21%))
+}

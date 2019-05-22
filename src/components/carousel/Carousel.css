@@ -1,0 +1,9 @@
+.imagen-size{
+  width: 84%;
+}
+.carousel-indicators li {
+    background-color: red !important;
+    width: 14px !important;
+    height: 14px !important;
+    border-radius: 50% !important;
+  }

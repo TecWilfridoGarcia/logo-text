@@ -1,0 +1,11 @@
+.send{
+    width: 79%;
+}
+.list-item{
+    list-style: none;
+    cursor: pointer;
+   
+}
+.social-icon{
+    width: 5%;
+}

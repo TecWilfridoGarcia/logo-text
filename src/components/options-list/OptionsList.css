@@ -1,0 +1,3 @@
+.accordion__button:before {
+    float: right !important;
+}
